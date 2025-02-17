@@ -55,7 +55,7 @@ Currently serving the Latin American market with Spanish-language content, expan
 ## 📞 Contact & Support
 
 - Website: [suumy.com](https://suumy.com)
-- Email: [contact@suumy.com](mailto:contact@suumy.com)
+- Email: [contact@suumy.com](mailto:hola@suumy.com)
 
 ## ⚖️ License
 
